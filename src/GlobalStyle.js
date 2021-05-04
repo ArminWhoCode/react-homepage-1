@@ -7,8 +7,14 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     font-family: 'Source Sans Pro', sans-serif;
   }
-  html, body {
+  body {
+    display: flex;
+    justify-content: center;
     overflow-x: hidden;
+  }
+  #root{
+    max-width:1200px;
+    width:100%;
   }
 `;
 
