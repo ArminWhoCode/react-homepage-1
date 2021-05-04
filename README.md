@@ -12,4 +12,4 @@ A simple Landing page (not responsive) created by react for practicing css-in-js
 
 ## Preview 
 
-https://github.com/ArminWhoCode/react-landing-1/tree/master/src/Assets/Images/1.png
+<img width="964" alt="jarray reverse exampl" src="https://github.com/ArminWhoCode/react-landing-1/blob/master/scrnli_5_4_2021_9-05-46%20PM.png">
