@@ -12,4 +12,4 @@ A simple Landing page (not responsive) created by react for practicing css-in-js
 
 ## Preview 
 
-https://github.com/[username]/[reponame]/src/Assets/Images/1.png
+https://github.com/ArminWhoCode/react-landing-1/tree/master/src/Assets/Images/1.png
