@@ -8,7 +8,7 @@ styled-components
 
 ## Description
 
-A simple Landing page (not responsive) created by react for practicing css-in-js (styled-components)
+A simple home page (not responsive) created by react for practicing css-in-js (styled-components)
 
 ## Preview 
 
